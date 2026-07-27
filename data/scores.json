@@ -1683,11 +1683,11 @@
         "DS": 4,
         "FC": 1,
         "FD": 1,
-        "FF": 1
+        "FF": 2
       },
       "apelido": "Herrera",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/RBB/FORMATO.png",
-      "pontuacao": 7.7,
+      "pontuacao": 8.5,
       "posicao_id": 5,
       "clube_id": 280,
       "entrou_em_campo": true
@@ -2337,7 +2337,7 @@
       "scout": {},
       "apelido": "Vagner Mancini",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/RBB/FORMATO.png",
-      "pontuacao": 5.24,
+      "pontuacao": 5.31,
       "posicao_id": 6,
       "clube_id": 280,
       "entrou_em_campo": true
