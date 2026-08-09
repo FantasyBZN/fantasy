@@ -252,7 +252,7 @@
       "scout": {},
       "apelido": "Rafael Guanaes",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/MIR/FORMATO.png",
-      "pontuacao": 2.77,
+      "pontuacao": 2.5,
       "posicao_id": 6,
       "clube_id": 2305,
       "entrou_em_campo": true
@@ -1292,10 +1292,12 @@
       "entrou_em_campo": true
     },
     "68708": {
-      "scout": {},
+      "scout": {
+        "FF": 1
+      },
       "apelido": "Eduardo",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/MIR/FORMATO.png",
-      "pontuacao": 0,
+      "pontuacao": 0.8,
       "posicao_id": 4,
       "clube_id": 2305,
       "entrou_em_campo": true
@@ -1810,12 +1812,11 @@
         "DS": 2,
         "FC": 3,
         "FD": 1,
-        "FF": 1,
         "FS": 3
       },
       "apelido": "Fernandinho",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/MIR/FORMATO.png",
-      "pontuacao": 5.6,
+      "pontuacao": 4.8,
       "posicao_id": 5,
       "clube_id": 2305,
       "entrou_em_campo": true
@@ -2018,12 +2019,11 @@
         "DS": 2,
         "FC": 2,
         "FD": 1,
-        "FS": 3,
-        "FT": 1
+        "FS": 3
       },
       "apelido": "Gustavo Cazonatti",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/MIR/FORMATO.png",
-      "pontuacao": 8.1,
+      "pontuacao": 5.1,
       "posicao_id": 4,
       "clube_id": 2305,
       "entrou_em_campo": true
