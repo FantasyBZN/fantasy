@@ -294,7 +294,7 @@
       "scout": {},
       "apelido": "Rafael Lacerda",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 6.65,
+      "pontuacao": 6.56,
       "posicao_id": 6,
       "clube_id": 315,
       "entrou_em_campo": true
@@ -1654,6 +1654,17 @@
       "clube_id": 265,
       "entrou_em_campo": true
     },
+    "97432": {
+      "scout": {
+        "CA": 1
+      },
+      "apelido": "Victor Caetano",
+      "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
+      "pontuacao": -1,
+      "posicao_id": 3,
+      "clube_id": 315,
+      "entrou_em_campo": false
+    },
     "97653": {
       "scout": {
         "DS": 2,
@@ -2045,5 +2056,5 @@
     }
   },
   "rodada": 23,
-  "total_atletas": 145
+  "total_atletas": 146
 }
