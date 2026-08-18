@@ -27,12 +27,12 @@
     },
     "100804": {
       "scout": {
-        "DS": 3,
+        "DS": 2,
         "FF": 1
       },
       "apelido": "Tchamba",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/REM/FORMATO.png",
-      "pontuacao": 5.3,
+      "pontuacao": 3.8,
       "posicao_id": 3,
       "clube_id": 364,
       "entrou_em_campo": true
@@ -199,11 +199,12 @@
     },
     "101715": {
       "scout": {
-        "FC": 3
+        "DS": 1,
+        "FC": 4
       },
       "apelido": "Alerrandro",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": -0.9,
+      "pontuacao": 0.3,
       "posicao_id": 5,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -1329,7 +1330,7 @@
       "scout": {},
       "apelido": "Paulo Pezzolano",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 4.15,
+      "pontuacao": 4.28,
       "posicao_id": 6,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -1712,12 +1713,11 @@
     },
     "126182": {
       "scout": {
-        "DS": 2,
-        "FC": 1
+        "DS": 2
       },
       "apelido": "Paulinho",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 2.7,
+      "pontuacao": 3,
       "posicao_id": 4,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -2299,7 +2299,7 @@
       "scout": {},
       "apelido": "Léo Condé",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/REM/FORMATO.png",
-      "pontuacao": 4.01,
+      "pontuacao": 3.8,
       "posicao_id": 6,
       "clube_id": 364,
       "entrou_em_campo": true
@@ -2426,10 +2426,12 @@
       "entrou_em_campo": true
     },
     "68685": {
-      "scout": {},
+      "scout": {
+        "DS": 1
+      },
       "apelido": "Alan Patrick",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 0,
+      "pontuacao": 1.5,
       "posicao_id": 4,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -3105,13 +3107,13 @@
     },
     "86859": {
       "scout": {
-        "DS": 3,
+        "DS": 2,
         "FC": 1,
         "FD": 1
       },
       "apelido": "José Welison",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/REM/FORMATO.png",
-      "pontuacao": 5.4,
+      "pontuacao": 3.9,
       "posicao_id": 4,
       "clube_id": 364,
       "entrou_em_campo": true
@@ -3195,13 +3197,12 @@
         "CA": 1,
         "FC": 1,
         "FD": 1,
-        "FF": 1,
         "FS": 1,
         "G": 1
       },
       "apelido": "Vitor Bueno",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/REM/FORMATO.png",
-      "pontuacao": 9.2,
+      "pontuacao": 8.4,
       "posicao_id": 4,
       "clube_id": 364,
       "entrou_em_campo": true
@@ -3507,23 +3508,25 @@
       "scout": {
         "DS": 1,
         "FC": 1,
+        "FF": 1,
         "FS": 1
       },
       "apelido": "David Duarte",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/BAH/FORMATO.png",
-      "pontuacao": 1.7,
+      "pontuacao": 2.5,
       "posicao_id": 3,
       "clube_id": 265,
       "entrou_em_campo": true
     },
     "91866": {
       "scout": {
+        "DS": 1,
         "FF": 1,
         "FS": 1
       },
       "apelido": "Zé Ivaldo",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/REM/FORMATO.png",
-      "pontuacao": 1.3,
+      "pontuacao": 2.8,
       "posicao_id": 3,
       "clube_id": 364,
       "entrou_em_campo": true
@@ -3892,7 +3895,7 @@
       "scout": {},
       "apelido": "Rogério Ceni",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/BAH/FORMATO.png",
-      "pontuacao": 5.14,
+      "pontuacao": 5.21,
       "posicao_id": 6,
       "clube_id": 265,
       "entrou_em_campo": true
@@ -4006,6 +4009,7 @@
     "97899": {
       "scout": {
         "A": 1,
+        "CA": 2,
         "DS": 4,
         "FC": 2,
         "FS": 2,
@@ -4013,7 +4017,7 @@
       },
       "apelido": "Matheus Bahia",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 11.3,
+      "pontuacao": 9.3,
       "posicao_id": 2,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -4061,11 +4065,12 @@
     "98617": {
       "scout": {
         "DS": 1,
-        "FC": 1
+        "FC": 1,
+        "FS": 1
       },
       "apelido": "Maripán",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 1.2,
+      "pontuacao": 1.7,
       "posicao_id": 3,
       "clube_id": 285,
       "entrou_em_campo": true
