@@ -1330,7 +1330,7 @@
       "scout": {},
       "apelido": "Paulo Pezzolano",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 4.28,
+      "pontuacao": 4.37,
       "posicao_id": 6,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -1535,6 +1535,15 @@
       "pontuacao": 3.7,
       "posicao_id": 5,
       "clube_id": 277,
+      "entrou_em_campo": true
+    },
+    "123016": {
+      "scout": {},
+      "apelido": "David Braga",
+      "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/REM/FORMATO.png",
+      "pontuacao": 0,
+      "posicao_id": 4,
+      "clube_id": 364,
       "entrou_em_campo": true
     },
     "123101": {
@@ -4009,7 +4018,7 @@
     "97899": {
       "scout": {
         "A": 1,
-        "CA": 2,
+        "CA": 1,
         "DS": 4,
         "FC": 2,
         "FS": 2,
@@ -4017,7 +4026,7 @@
       },
       "apelido": "Matheus Bahia",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/INT/FORMATO.png",
-      "pontuacao": 9.3,
+      "pontuacao": 10.3,
       "posicao_id": 2,
       "clube_id": 285,
       "entrou_em_campo": true
@@ -4466,5 +4475,5 @@
     }
   },
   "rodada": 23,
-  "total_atletas": 337
+  "total_atletas": 338
 }
