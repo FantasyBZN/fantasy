@@ -2014,11 +2014,12 @@
       "scout": {
         "DS": 1,
         "FD": 1,
-        "FS": 1
+        "FS": 1,
+        "G": 1
       },
       "apelido": "Gustavo Santana",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/SAO/FORMATO.png",
-      "pontuacao": 3.2,
+      "pontuacao": 11.2,
       "posicao_id": 5,
       "clube_id": 276,
       "entrou_em_campo": true
@@ -2399,7 +2400,7 @@
       },
       "apelido": "Dorival Júnior",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/SAO/FORMATO.png",
-      "pontuacao": 5.45,
+      "pontuacao": 6.17,
       "posicao_id": 6,
       "clube_id": 276,
       "entrou_em_campo": true
