@@ -172,12 +172,12 @@
     },
     "101727": {
       "scout": {
-        "DS": 1,
+        "DS": 2,
         "FF": 1
       },
       "apelido": "Matheuzinho",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/COR/FORMATO.png",
-      "pontuacao": 2.3,
+      "pontuacao": 3.8,
       "posicao_id": 2,
       "clube_id": 264,
       "entrou_em_campo": true
@@ -453,13 +453,13 @@
     },
     "104693": {
       "scout": {
-        "DS": 3,
+        "DS": 2,
         "FC": 1,
         "FS": 1
       },
       "apelido": "Newton",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/SAO/FORMATO.png",
-      "pontuacao": 4.7,
+      "pontuacao": 3.2,
       "posicao_id": 4,
       "clube_id": 276,
       "entrou_em_campo": true
@@ -804,12 +804,12 @@
     },
     "108946": {
       "scout": {
-        "DS": 1,
+        "DS": 2,
         "FS": 3
       },
       "apelido": "Victor Sá",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/SAO/FORMATO.png",
-      "pontuacao": 3,
+      "pontuacao": 4.5,
       "posicao_id": 5,
       "clube_id": 276,
       "entrou_em_campo": true
@@ -818,11 +818,11 @@
       "scout": {
         "DS": 5,
         "FD": 1,
-        "FF": 2
+        "FF": 1
       },
       "apelido": "Plata",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/FLA/FORMATO.png",
-      "pontuacao": 10.3,
+      "pontuacao": 9.5,
       "posicao_id": 5,
       "clube_id": 262,
       "entrou_em_campo": true
@@ -2178,7 +2178,7 @@
       "scout": {},
       "apelido": "Fernando Diniz",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/COR/FORMATO.png",
-      "pontuacao": 4,
+      "pontuacao": 4.14,
       "posicao_id": 6,
       "clube_id": 264,
       "entrou_em_campo": true
@@ -2673,7 +2673,7 @@
       },
       "apelido": "Leonardo Jardim",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/FLA/FORMATO.png",
-      "pontuacao": 7.3,
+      "pontuacao": 7.09,
       "posicao_id": 6,
       "clube_id": 262,
       "entrou_em_campo": true
@@ -3302,7 +3302,7 @@
     "98873": {
       "scout": {
         "CA": 1,
-        "DS": 3,
+        "DS": 2,
         "FC": 1,
         "FD": 2,
         "FF": 4,
@@ -3310,7 +3310,7 @@
       },
       "apelido": "Samuel Lino",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/FLA/FORMATO.png",
-      "pontuacao": 10.3,
+      "pontuacao": 8.8,
       "posicao_id": 5,
       "clube_id": 262,
       "entrou_em_campo": true
