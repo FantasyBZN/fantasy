@@ -598,14 +598,14 @@
     },
     "111246": {
       "scout": {
-        "DS": 2,
+        "DS": 1,
         "FC": 2,
         "FD": 1,
         "SG": 1
       },
       "apelido": "Alix Vinicius",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/RBB/FORMATO.png",
-      "pontuacao": 8.6,
+      "pontuacao": 7.1,
       "posicao_id": 3,
       "clube_id": 280,
       "entrou_em_campo": true
@@ -1026,13 +1026,12 @@
       "scout": {
         "DS": 3,
         "FC": 1,
-        "FD": 1,
         "FF": 1,
         "FS": 1
       },
       "apelido": "David",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 6.7,
+      "pontuacao": 5.5,
       "posicao_id": 4,
       "clube_id": 315,
       "entrou_em_campo": true
@@ -1230,7 +1229,7 @@
       },
       "apelido": "Vagner Mancini",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/RBB/FORMATO.png",
-      "pontuacao": 10.85,
+      "pontuacao": 10.71,
       "posicao_id": 6,
       "clube_id": 280,
       "entrou_em_campo": true
@@ -1961,11 +1960,12 @@
     },
     "95332": {
       "scout": {
-        "FC": 2
+        "FC": 2,
+        "FD": 1
       },
       "apelido": "Marcinho",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": -0.6,
+      "pontuacao": 0.6,
       "posicao_id": 5,
       "clube_id": 315,
       "entrou_em_campo": true
