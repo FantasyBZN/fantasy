@@ -27,11 +27,11 @@
     "timestamp": 1793744940
   },
   "limites_competicao": {},
-  "times_escalados": 687224,
+  "times_escalados": 687219,
   "mercado_pos_rodada": false,
   "novo_mes_ranking": true,
   "degustacao_gatomestre": true,
-  "bola_rolando": true,
+  "bola_rolando": false,
   "nome_rodada": "Rodada 34",
   "limites_competicoes": {
     "pontos_corridos": {
