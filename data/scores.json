@@ -251,7 +251,7 @@
       },
       "apelido": "Guilherme Bossle",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CFC/FORMATO.png",
-      "pontuacao": 8.64,
+      "pontuacao": 8.77,
       "posicao_id": 6,
       "clube_id": 294,
       "entrou_em_campo": true
@@ -801,13 +801,13 @@
     },
     "71227": {
       "scout": {
-        "DS": 1,
+        "DS": 2,
         "FT": 1,
         "SG": 1
       },
       "apelido": "Maicon",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CFC/FORMATO.png",
-      "pontuacao": 9.5,
+      "pontuacao": 11,
       "posicao_id": 3,
       "clube_id": 294,
       "entrou_em_campo": true
@@ -1082,11 +1082,12 @@
     },
     "91772": {
       "scout": {
+        "DS": 1,
         "FC": 3
       },
       "apelido": "David Duarte",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/BAH/FORMATO.png",
-      "pontuacao": -0.9,
+      "pontuacao": 0.6,
       "posicao_id": 3,
       "clube_id": 265,
       "entrou_em_campo": true
@@ -1240,7 +1241,7 @@
       "scout": {},
       "apelido": "Rogério Ceni",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/BAH/FORMATO.png",
-      "pontuacao": 2.79,
+      "pontuacao": 2.93,
       "posicao_id": 6,
       "clube_id": 265,
       "entrou_em_campo": true
