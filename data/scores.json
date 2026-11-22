@@ -15,7 +15,7 @@
       "scout": {},
       "apelido": "Vinícius Bergantin",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 4.89,
+      "pontuacao": 4.59,
       "posicao_id": 6,
       "clube_id": 315,
       "entrou_em_campo": true
@@ -235,12 +235,12 @@
         "CA": 1,
         "DS": 2,
         "FC": 1,
-        "FD": 1,
+        "FD": 2,
         "FS": 2
       },
       "apelido": "Max",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 8.9,
+      "pontuacao": 10.1,
       "posicao_id": 4,
       "clube_id": 315,
       "entrou_em_campo": true
@@ -346,12 +346,11 @@
         "CA": 1,
         "FC": 2,
         "FD": 2,
-        "FF": 1,
         "FS": 2
       },
       "apelido": "Marquinhos",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CRU/FORMATO.png",
-      "pontuacao": 2.6,
+      "pontuacao": 1.8,
       "posicao_id": 5,
       "clube_id": 283,
       "entrou_em_campo": true
@@ -432,12 +431,12 @@
     },
     "117404": {
       "scout": {
-        "DE": 2,
+        "DE": 3,
         "GS": 1
       },
       "apelido": "Otávio",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CRU/FORMATO.png",
-      "pontuacao": 1.6,
+      "pontuacao": 2.9,
       "posicao_id": 1,
       "clube_id": 283,
       "entrou_em_campo": true
@@ -494,12 +493,12 @@
     },
     "123433": {
       "scout": {
-        "DS": 2,
+        "DS": 1,
         "FC": 1
       },
       "apelido": "Rosivan",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 2.7,
+      "pontuacao": 1.2,
       "posicao_id": 4,
       "clube_id": 315,
       "entrou_em_campo": true
@@ -529,12 +528,12 @@
     },
     "124912": {
       "scout": {
-        "DS": 4,
+        "DS": 3,
         "FC": 1
       },
       "apelido": "Jonathan Jesus",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CRU/FORMATO.png",
-      "pontuacao": 5.7,
+      "pontuacao": 4.2,
       "posicao_id": 3,
       "clube_id": 283,
       "entrou_em_campo": true
@@ -557,7 +556,7 @@
       },
       "apelido": "Artur Jorge",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CRU/FORMATO.png",
-      "pontuacao": 6.16,
+      "pontuacao": 6.07,
       "posicao_id": 6,
       "clube_id": 283,
       "entrou_em_campo": true
@@ -584,12 +583,12 @@
     },
     "130806": {
       "scout": {
-        "DS": 5,
+        "DS": 4,
         "G": 1
       },
       "apelido": "Kauan",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 15.5,
+      "pontuacao": 14,
       "posicao_id": 3,
       "clube_id": 315,
       "entrou_em_campo": true
@@ -1249,12 +1248,11 @@
     "97432": {
       "scout": {
         "CA": 1,
-        "DS": 1,
         "FC": 1
       },
       "apelido": "Victor Caetano",
       "foto": "https://s3.glbimg.com/v1/AUTH_58d78b787ec34892b5aaa0c7a146155f/clubes_2026/silhuetas/CHA/FORMATO.png",
-      "pontuacao": 0.2,
+      "pontuacao": -1.3,
       "posicao_id": 3,
       "clube_id": 315,
       "entrou_em_campo": true
